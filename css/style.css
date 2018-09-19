@@ -1,0 +1,35 @@
+.topLayer {
+	height: 500px;
+}
+
+.lastLayer {
+	height: 226.656px;
+}
+
+.container-fluid {
+	width: 80%;
+}
+
+.jumbotron {
+	margin-top: 40px;
+	color: #5f8ad0;
+	font-size: 20px;
+	background-color: #ecf0f1;
+}
+
+/* Changes to Blue, needed attribute name*/
+.bg-company-red {
+	background-color: #293a54;
+}
+h1 {
+	font-size: 40px;
+}
+
+img {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+a {
+	color: white;
+}
